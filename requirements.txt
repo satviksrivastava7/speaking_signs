@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+opencv-python
+pandas
+numpy
+matplotlib
+tensorflow
+tensorflow_hub
+keras
